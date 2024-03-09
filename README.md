@@ -17,7 +17,7 @@
   <img align="center" alt="Andrew-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
   
-  ![Snake animation](https://github.com/devvenancio/devvenancio/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AndrewOVenancio/AndrewOVenancio/blob/output/github-contribution-grid-snake.svg)
 
 </div><br/>
 
